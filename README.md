@@ -1,5 +1,3 @@
-![spearman_correlation_matrix](https://github.com/clement-hironimus/bootcamp-correlation-analysis/assets/62453600/70469263-36aa-4560-9bf3-8f1f60a5caea)# bootcamp-correlation-analysis
-
 ## Background & Goal
 The primary objective of this exercise is to identify which factors that could potentially predict future user adoption and provide actionable insights to improve user product adoption rates.
 
