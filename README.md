@@ -1,6 +1,3 @@
-## Background & Goal
-The primary objective of this exercise is to identify which factors that could potentially predict future user adoption and provide actionable insights to improve user product adoption rates.
-
 # bootcamp-correlation-analysis
 
 ## Background & Goal
