@@ -1,4 +1,4 @@
-# bootcamp-correlation-analysis
+# User Product Engagement Correlation Analysis
 
 ## Background & Goal
 The primary objective of this exercise is to discover actionable insights that can improve user adoption rates. By analyzing user engagement and identifying the key factors that drive users to interact with the product more frequently and consistently, we aim to forecast future user adoption.
